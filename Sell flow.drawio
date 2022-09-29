@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T07:57:28.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="UvmPb0Zd2NPENmspLA5n" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T07:58:50.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="PbEhHvFbdp3D6CYpd4M2" version="20.3.7" type="github">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Page-1">
     <mxGraphModel dx="3368" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2500" math="0" shadow="0">
       <root>
@@ -302,8 +302,14 @@
         <mxCell id="TFUhJYToad7Svwmn0-4R-99" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Tahoma; background-color: initial;&quot;&gt;contact detail&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- live chat&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Tel.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- email&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- facebook&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- line&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="2130" width="140" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-101" target="TFUhJYToad7Svwmn0-4R-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-101" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ช่องทางการจัดส่งสินค้า&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="1950" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-103" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Tahoma; background-color: initial;&quot;&gt;select รูปแบบการจัดส่ง&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- ไปรษณีย์&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Kerry&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Flash&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Nim express&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- DHL&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1930" width="190" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
