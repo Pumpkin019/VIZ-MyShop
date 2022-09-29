@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T03:28:33.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="__-gc8Gwos0r7VPYn-nm" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T04:00:57.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="SgBJhizkzpjCTlyTPPym" version="20.3.7" type="github">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Page-1">
     <mxGraphModel dx="1684" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -7,8 +7,11 @@
         <mxCell id="TFUhJYToad7Svwmn0-4R-2" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 16px;&quot;&gt;เริ่มต้น&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFUhJYToad7Svwmn0-4R-3" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 16px;&quot;&gt;เริ่มต้น&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="TFUhJYToad7Svwmn0-4R-3" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 16px;&quot;&gt;รับ id, password&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-4" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 16px;&quot;&gt;เข้าสู่เว็บไซต์&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
