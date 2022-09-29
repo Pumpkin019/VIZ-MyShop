@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T08:37:10.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="m5-_v-zpBwowYgRn0xOc" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:37:46.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="GmlSDNOQEnkx1l3Q0FQI" version="20.3.7" type="github" pages="2">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Sell flow">
     <mxGraphModel dx="5053" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2400" math="0" shadow="0">
       <root>
@@ -321,7 +321,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dYNhsFGjtd7_dzYGkfiw" name="Buy flow">
-    <mxGraphModel dx="1684" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1225" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -482,7 +482,7 @@
         <mxCell id="fDLrzpWcllwoObazUwsG-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-49" target="fDLrzpWcllwoObazUwsG-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fDLrzpWcllwoObazUwsG-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-49" target="fDLrzpWcllwoObazUwsG-66">
+        <mxCell id="fDLrzpWcllwoObazUwsG-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-49" target="fDLrzpWcllwoObazUwsG-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-49" value="เลือกรูปแบบการเก็บเงิน" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
@@ -492,13 +492,16 @@
           <mxGeometry x="2460" y="520" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-54" value="เก็บเงินปลายทาง" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="760" width="140" height="80" as="geometry" />
+          <mxGeometry x="2460" y="890" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-64" value="visa" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2460" y="640" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fDLrzpWcllwoObazUwsG-66" value="ข้อมูลบัตรที่เคยบันทึกไว้" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="870" width="140" height="80" as="geometry" />
+        <mxCell id="fDLrzpWcllwoObazUwsG-68" value="ชำระเงิน" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="640" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-69" value="ข้อมูลบัตรที่เคยบันทึกไว้" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="760" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
