@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T07:58:50.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="PbEhHvFbdp3D6CYpd4M2" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:01:09.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="Z1HHzowbtsHhY9mB-Ai3" version="20.3.7" type="github">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Page-1">
-    <mxGraphModel dx="3368" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="3109" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,14 +245,8 @@
         <mxCell id="TFUhJYToad7Svwmn0-4R-75" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Tahoma; background-color: initial;&quot;&gt;get order data&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- สินค้าที่ซื้อ&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- จำนวน&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- ราคารวม&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- หมายเหตุ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- เวลาที่โอนเงิน&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="1430" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="TFUhJYToad7Svwmn0-4R-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-76" target="TFUhJYToad7Svwmn0-4R-77">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-76" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Tahoma; background-color: initial;&quot;&gt;Edit detail&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- สถานะรอจ่ายเงิน&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- สถานะจ่ายเงินสำเร็จ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- รอส่งของ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- ส่งของสำเร็จ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- สถานะสินค้าตีกลับ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- สถานะสินค้าถูกยกเลิก&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- ปุ่มลบ order&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- ช่องหมายเหตุ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- ช่องกรอก tracking num&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1430" width="210" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="TFUhJYToad7Svwmn0-4R-77" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;***เพิ่มเติม***&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;สามารถปริ้นข้อมูลลูกค้ามาแปะกล่องพัสดุได้&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="1490" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-81" target="TFUhJYToad7Svwmn0-4R-83">
           <mxGeometry relative="1" as="geometry" />
@@ -310,6 +304,18 @@
         </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-103" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Tahoma; background-color: initial;&quot;&gt;select รูปแบบการจัดส่ง&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- ไปรษณีย์&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Kerry&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Flash&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Nim express&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- DHL&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1930" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-106" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="2005" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-107" value="***หมายเหตุ***&lt;br&gt;แม่ค้าต้องเลือกขนส่งเพียง 1 ที่เท่านั้น" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1895" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-108" value="&lt;div style=&quot;font-family: Helvetica; font-size: 12px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;***เพิ่มเติม***&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Helvetica; font-size: 12px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;สามารถปริ้นข้อมูลลูกค้ามาแปะกล่องพัสดุได้&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1430" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-109" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1540" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
