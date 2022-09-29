@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T08:29:49.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="Q6xpiPyInOQOe4QbO-AZ" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:30:26.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="fkTZ1Hk5b09tY7Uy6R1T" version="20.3.7" type="github" pages="2">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Sell flow">
     <mxGraphModel dx="5053" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2400" math="0" shadow="0">
       <root>
@@ -442,6 +442,12 @@
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-41" value="login และกรอกข้อมูลที่อยู่ กับบัตรเรียบร้อย" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1430" y="730" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-42" value="login แต่ไม่ได้กรอกข้อมูลที่อยู่ กับบัตร" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="890" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-43" value="ไม่ได้ login" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1030" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
