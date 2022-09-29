@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T08:17:39.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="2j3-NfYyu9lF36ESPg5l" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:23:18.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="OVxAbmA-V68VYs1Olays" version="20.3.7" type="github" pages="2">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Sell flow">
     <mxGraphModel dx="5053" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2400" math="0" shadow="0">
       <root>
@@ -321,15 +321,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dYNhsFGjtd7_dzYGkfiw" name="Buy flow">
-    <mxGraphModel dx="1894" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="1684" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fDLrzpWcllwoObazUwsG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-1" target="fDLrzpWcllwoObazUwsG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-1" value="เริ่มต้น" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-2" target="fDLrzpWcllwoObazUwsG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-2" value="เข้าเว็บผ่านลิงค์" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-3" target="fDLrzpWcllwoObazUwsG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-3" target="fDLrzpWcllwoObazUwsG-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-3" value="home page" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
@@ -337,17 +349,57 @@
         <mxCell id="fDLrzpWcllwoObazUwsG-4" value="promotion และสินค้าแนะนำ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-5" target="fDLrzpWcllwoObazUwsG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-5" value="profile page" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-6" target="fDLrzpWcllwoObazUwsG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-6" target="fDLrzpWcllwoObazUwsG-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-6" value="login ไหม ?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="420" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-7" target="fDLrzpWcllwoObazUwsG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-7" target="fDLrzpWcllwoObazUwsG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-7" value="login" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="780" y="420" width="140" height="60" as="geometry" />
+          <mxGeometry x="790" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-8" target="fDLrzpWcllwoObazUwsG-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-8" value="ไม่ได้ login" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="550" width="140" height="60" as="geometry" />
+          <mxGeometry x="560" y="570" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-9" value="จะขึ้นเป็นหน้าให้ login/register ก่อน" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="790" y="570" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-10" target="fDLrzpWcllwoObazUwsG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-10" value="แก้ไขข้อมูลส่วนตัว&lt;br&gt;- email&lt;br&gt;- ชื่อ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;container=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="360" width="140" height="60" as="geometry">
+            <mxRectangle x="1020" y="360" width="160" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-11" target="fDLrzpWcllwoObazUwsG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-11" value="เพิ่มข้อมูล&lt;br&gt;- ที่อยู่&lt;br&gt;- เบอร์&lt;br&gt;- บัตรเดบิต เครดิต" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;container=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="440" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-12" value="submit" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;container=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="420" width="140" height="60" as="geometry">
+            <mxRectangle x="1020" y="360" width="160" height="70" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
