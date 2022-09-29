@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T06:43:10.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="fK7n7GlL_WLoj_CBKYQI" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T06:45:24.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="Ygu__muTfZwzrkTxT5Y8" version="20.3.7" type="github">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Page-1">
-    <mxGraphModel dx="2861" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1973" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,11 +150,41 @@
         <mxCell id="TFUhJYToad7Svwmn0-4R-47" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ส่งข้อมูลไปที่ profile ใน front page&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="890" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-54" target="TFUhJYToad7Svwmn0-4R-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-54" target="TFUhJYToad7Svwmn0-4R-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-54" target="TFUhJYToad7Svwmn0-4R-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-54" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;customer management page&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="1150" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-56" target="TFUhJYToad7Svwmn0-4R-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-56" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;get from login&lt;br&gt;(FB, Google, apple, line ID, Tiktok)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1060" width="240" height="80" as="geometry" />
+          <mxGeometry x="890" y="1050" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-57" target="TFUhJYToad7Svwmn0-4R-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-57" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;get from register&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1170" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-58" target="TFUhJYToad7Svwmn0-4R-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-58" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;get from user profile&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1290" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-62" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;get data&lt;br&gt;- name&lt;br&gt;- email&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1110" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-63" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;get data&lt;br&gt;- address&lt;br&gt;- phone num&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1295" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
