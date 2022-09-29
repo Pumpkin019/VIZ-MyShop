@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T08:42:13.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="wPj5x3Rc1YXj_3UxE16f" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:42:19.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="jAwoOPTGh1oT1w5rjcUL" version="20.3.7" type="github" pages="2">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Sell flow">
     <mxGraphModel dx="5053" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2400" math="0" shadow="0">
       <root>
@@ -554,8 +554,14 @@
         <mxCell id="fDLrzpWcllwoObazUwsG-82" value="ชำระเงิน" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2740" y="650" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-83" target="fDLrzpWcllwoObazUwsG-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-83" value="สามารถ login ได้ ในหน้าตะกร้าสินค้า" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1670" y="1350" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-91" target="fDLrzpWcllwoObazUwsG-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-91" value="login สำเร็จ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1675" y="1200" width="150" height="80" as="geometry" />
