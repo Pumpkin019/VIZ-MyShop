@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T08:25:28.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="W1h-K4xieEFHKAAxWyNa" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:26:36.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="jPhgjian7yOAUMP3AOyX" version="20.3.7" type="github" pages="2">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Sell flow">
     <mxGraphModel dx="5053" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2400" math="0" shadow="0">
       <root>
@@ -321,7 +321,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dYNhsFGjtd7_dzYGkfiw" name="Buy flow">
-    <mxGraphModel dx="1155" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,6 +415,9 @@
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-29" value="login/register complete" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1010" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-33" value="เลือกดูสินค้า" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="730" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
