@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T08:43:25.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="4u4Sg6bhKzQ255Skdc11" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:43:30.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="K4oIgt-HN9X2BSCOcce9" version="20.3.7" type="github" pages="2">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Sell flow">
     <mxGraphModel dx="5053" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2400" math="0" shadow="0">
       <root>
@@ -321,7 +321,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dYNhsFGjtd7_dzYGkfiw" name="Buy flow">
-    <mxGraphModel dx="2378" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3368" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -522,7 +522,7 @@
           <mxGeometry x="2460" y="760" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-75" value="เช็คสถานะสินค้าผ่าน user profile" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="810" width="140" height="80" as="geometry" />
+          <mxGeometry x="3060" y="920" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-77" target="fDLrzpWcllwoObazUwsG-78">
           <mxGeometry relative="1" as="geometry" />
