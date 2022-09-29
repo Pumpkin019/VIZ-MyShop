@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T08:40:21.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="ZHeKFzHSB8GleZi4Oypu" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:41:51.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="8DmSBcL4aIaVdsQ7yDqA" version="20.3.7" type="github" pages="2">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Sell flow">
     <mxGraphModel dx="5053" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2400" math="0" shadow="0">
       <root>
@@ -455,11 +455,17 @@
         <mxCell id="fDLrzpWcllwoObazUwsG-41" value="login และกรอกข้อมูลที่อยู่ กับบัตรเรียบร้อย" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1430" y="730" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-42" target="fDLrzpWcllwoObazUwsG-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-42" value="login แต่ไม่ได้กรอกข้อมูลที่อยู่ กับบัตร" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1430" y="1020" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-43" target="fDLrzpWcllwoObazUwsG-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-43" value="ไม่ได้ login" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1290" width="150" height="80" as="geometry" />
+          <mxGeometry x="1430" y="1350" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-47" target="fDLrzpWcllwoObazUwsG-48">
           <mxGeometry relative="1" as="geometry" />
@@ -518,8 +524,38 @@
         <mxCell id="fDLrzpWcllwoObazUwsG-75" value="เช็คสถานะสินค้าผ่าน user profile" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="3060" y="810" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-77" target="fDLrzpWcllwoObazUwsG-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fDLrzpWcllwoObazUwsG-77" value="กดเพิ่มที่อยู่" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1675" y="1020" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-78" target="fDLrzpWcllwoObazUwsG-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-78" target="fDLrzpWcllwoObazUwsG-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="fDLrzpWcllwoObazUwsG-78" target="fDLrzpWcllwoObazUwsG-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-78" value="เลือกรูปแบบการเก็บเงิน" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1020" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-79" value="credit card" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1010" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-80" value="visa" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1130" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-81" value="เก็บเงินปลายทาง" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1250" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-82" value="ชำระเงิน" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="650" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDLrzpWcllwoObazUwsG-83" value="สามารถ login ได้ ในหน้าตะกร้าสินค้า" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1350" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
