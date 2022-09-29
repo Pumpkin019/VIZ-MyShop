@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T04:35:15.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="YI_lYlzdkSTF-JbSJbtM" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T06:23:07.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="iAKpPTNjbQh5K_VFZsWJ" version="20.3.7" type="github">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Page-1">
-    <mxGraphModel dx="3109" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="5774" dy="3277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,32 +43,53 @@
         <mxCell id="TFUhJYToad7Svwmn0-4R-11" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;framework template&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="360" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFUhJYToad7Svwmn0-4R-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-13" target="TFUhJYToad7Svwmn0-4R-15">
+        <mxCell id="TFUhJYToad7Svwmn0-4R-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-13" target="TFUhJYToad7Svwmn0-4R-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-13" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;dashboard&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-14" target="TFUhJYToad7Svwmn0-4R-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-14" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;stock สินค้า&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="640" width="140" height="60" as="geometry" />
+          <mxGeometry x="540" y="685" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-15" target="TFUhJYToad7Svwmn0-4R-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-15" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;add product&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="490" width="140" height="60" as="geometry" />
+          <mxGeometry x="820" y="685" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFUhJYToad7Svwmn0-4R-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-16" target="TFUhJYToad7Svwmn0-4R-17">
+        <mxCell id="TFUhJYToad7Svwmn0-4R-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-16" target="TFUhJYToad7Svwmn0-4R-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-16" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;input product detail&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="490" width="160" height="60" as="geometry" />
+          <mxGeometry x="1060" y="685" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-17" target="TFUhJYToad7Svwmn0-4R-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Tahoma; background-color: initial;&quot;&gt;detail&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- product image&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- product name&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- price&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- stock&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- category&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- product detail&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- expiration date&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- promotion&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="200" width="160" height="230" as="geometry" />
+          <mxGeometry x="1310" y="600" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-23" target="TFUhJYToad7Svwmn0-4R-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFUhJYToad7Svwmn0-4R-23" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;submit&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="490" width="140" height="60" as="geometry" />
+          <mxGeometry x="1530" y="685" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-24" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;บันทึกข้อมูลลงใน table&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="685" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=16;" edge="1" parent="1" source="TFUhJYToad7Svwmn0-4R-28" target="TFUhJYToad7Svwmn0-4R-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-28" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;แสดงข้อมูล&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFUhJYToad7Svwmn0-4R-29" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Tahoma; background-color: initial;&quot;&gt;- ยอดขาย (วัน สัปดาห์ เดือน ปี)&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- engagement&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- จำนวนลูกค้า (รายวัน สัปดาห์ เดือน ปี)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- อันดับสินค้าขายดี&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="470" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
