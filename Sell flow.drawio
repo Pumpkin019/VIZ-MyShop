@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T04:47:08.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="V4N3NVfKSwPtS4PDTd5H" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-03T03:36:44.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="AIztUptDQO2_H2tzWj5i" version="20.3.7" type="github" pages="2">
   <diagram id="eU5cjns71zuXlxmMYgX5" name="Sell flow">
-    <mxGraphModel dx="940" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="2400" math="0" shadow="0">
+    <mxGraphModel dx="2378" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="2400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,10 +343,10 @@
         <mxCell id="5NghtN3XRO-6qNBlOznv-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Tahoma;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1450" y="580" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bGfVPVTDCok7ziZb1a2P-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bGfVPVTDCok7ziZb1a2P-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Tahoma;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2050" y="600" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bGfVPVTDCok7ziZb1a2P-2" value="&lt;div style=&quot;font-family: Helvetica; font-size: 12px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;***เพิ่มเติม***&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;ในส่วนของรายละเอียดสินค้า สามารถเพิ่มหัวข้อรายละเอียดได้ เพราะแม่ค้ามีหลากหลายประเภท&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Tahoma;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="bGfVPVTDCok7ziZb1a2P-2" value="&lt;div style=&quot;font-family: Helvetica; font-size: 12px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;***เพิ่มเติม***&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;ในส่วนของรายละเอียดสินค้า สามารถเพิ่มหัวข้อรายละเอียดได้ เพราะแม่ค้ามีหลากหลายประเภท&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Tahoma;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1920" y="480" width="320" height="130" as="geometry" />
         </mxCell>
       </root>
